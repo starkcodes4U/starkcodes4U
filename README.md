@@ -6,9 +6,15 @@
 ### 🌐 Socials:
 
 <p align="left">
-<a href="www.linkedin.com/in/jagannath-tripathy-00130a264" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://instagram.com/redouble_trouble" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
-<a href="https://x.com/J_TRIPATHY_" target="blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/jagannath-tripathy-00130a264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/redouble_trouble" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://x.com/J_TRIPATHY_" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 ---
@@ -21,6 +27,7 @@
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Pages-222?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
@@ -28,9 +35,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starkcodes4U&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=starkcodes4U&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=starkcodes4U&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=starkcodes4U&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
