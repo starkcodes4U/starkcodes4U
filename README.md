@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm JAGANNATH TRIPATHY</h1>
 <h3 align="center">Deep Learning | Web Dev | Open Source | Research Enthusiast</h3>
 
 ---
@@ -6,9 +6,9 @@
 ### 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://instagram.com/yourprofile" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
-<a href="https://x.com/yourprofile" target="blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" /></a>
+<a href="www.linkedin.com/in/jagannath-tripathy-00130a264" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://instagram.com/redouble_trouble" target="blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+<a href="https://x.com/J_TRIPATHY_" target="blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
